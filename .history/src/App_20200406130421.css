@@ -36,14 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-div, h2, h3, p {
-  font-family: 'Gotham-Book';
-  font-size: 7;
-}
-
-@font-face {
-  font-family: 'Gotham-Book';
-  src: local('Gotham-Book'), url(./fonts/Gotham-Book.otf) format('opentype');
-}
-
